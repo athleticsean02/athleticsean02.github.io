@@ -1,0 +1,66 @@
+Selector {
+    Property: Value
+}
+
+
+html{
+    background:url(../images/red-ribbon.jpg);
+    } 
+nav{
+    text-align: center;
+    width: 35%;
+    padding:0;
+    color:black;
+    border-style:ridge;
+    border-color:gold;
+    background-color:white;
+    border-width: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    }  
+h1{
+    width:25%;
+    text-align: center;
+    padding:0;
+    color:black;
+    border-style: ridge;
+    border-color:gold;
+    border-width: thick;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+dl{
+    width: 50%;
+    padding:0;
+    color:black;
+    border-style:ridge;
+    border-color:gold;
+    background-color: white;
+    border-width:thick;
+    margin-left:auto;
+    margin-right: auto;
+    }
+h3{
+    text-align: center;
+    width:25%;
+    padding:0;
+    color:black;
+    border-style:ridge;
+    border-color:gold;
+    border-width:thick;
+    background-color: white;
+    }
+
+p{
+    width: 25%;
+    text-align: center;
+    padding:0;
+    color:black;
+    font-weight:bold;
+    border-style:ridge;
+    border-color:gold;
+    border-width:thick;
+    background-color:white;
+}
