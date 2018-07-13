@@ -19,6 +19,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     text-decoration: underline;
+    color: white;
     }
 h2{
     text-align: center;
@@ -29,6 +30,7 @@ h2{
     margin-left: auto;
     margin-right: auto;
     text-decoration: underline;
+    color: white;
 }
 h3{
     text-align: center;
@@ -39,10 +41,11 @@ h3{
     margin-left: auto;
     margin-right: auto;
     text-decoration: underline;
+color: white;
 }
 p{
     padding:0;
-    color:black;
+    color:white;
     border-style:ridge;
     border-color:black;
     
