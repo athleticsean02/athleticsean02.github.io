@@ -15,7 +15,7 @@ h1{
     border-style: ridge;
     border-color:Black;
     border-width: thick;
-    background-color: Gold;
+    background-color:crimson;
     margin-left: auto;
     margin-right: auto;
     text-decoration: underline;
@@ -55,7 +55,7 @@ nav{
     border-style: ridge;
     border-color: black;
     border-width: thick;
-    background-color: white;
+    background-color: crimson;
     margin-left: auto;
     margin-right: auto;
 }
@@ -63,5 +63,5 @@ nav{
     padding: inherit;
     border-style: ridge;
     border-color:black;
-    background-color: gold;
+    background-color: crimson;
 }
